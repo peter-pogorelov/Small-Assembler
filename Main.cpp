@@ -7,7 +7,7 @@
 
 #define EMPTY_COMMAND = -1
 
-#define IN_3A			0x03 //rr mr rm vr vm mm rr
+#define IN_3A			0x03 //mm mr mv
 #define IN_2A			0x02 //m r v
 #define IN_1A			0x01 //no arguments
 
